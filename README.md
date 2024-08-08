@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bangkitdwijaya
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Umitra Lampung
+- Kotabumi, Lampung Utara
 
 
 <!---
